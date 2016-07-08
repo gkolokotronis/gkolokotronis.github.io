@@ -4,39 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am currently working at <a href="https://www.hellenicbank.com" target="_blank">Hellenic Bank</a>.
-I also worked at <a href="https://www.amdocs.com" target="_blank">Amdocs</a> and at
-the <a href="https://www.ucy.ac.cy" target="_blank">University of Cyprus</a>.</p>
+<p>I am a Software Developer and Data Analyst. Currently, I am a member of the Enterprise Data Warehouse (EDW) team at <a href="https://www.hellenicbank.com" target="_blank">Hellenic Bank</a>.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Before Hellenic Back, I was a member of the core development team responsible for the <a href="http://www.amdocs.com/products/revenue-management/partner-management/pages/partner-management.aspx" target="_blank">Amdocs Partner Management Solution</a>. I also worked as a Research Assistant for a couple of months at the <a href="https://www.ucy.ac.cy" target="_blank">University of Cyprus</a>.</p>
 
-<h2>Skills</h2>
+<p>On my website you can find information about my <a href="http://www.gkolokotronis.com/projects/">projects</a> and <a href="http://www.gkolokotronis.com/blog/">blog</a>.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/gkolokotronis/dbquality">dbquality</a></li>
-	<li><a href="https://github.com/gkolokotronis/backpropagation">backpropagation</a></li>
-</ul>
+<p>In case you want to contact me you can drop me an email at <a href="mailto:giorgoskolokotronis@gmail.com">giorgoskolokotronis@gmail.com</a></p>

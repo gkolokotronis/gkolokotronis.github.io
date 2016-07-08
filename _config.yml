@@ -1,6 +1,6 @@
 # main text of home
 name: George Kolokotronis
-bio: Software Developer and Data Analyst
+bio: Software Developer / Data Analyst
 
 # twitter summary info
 description: Personal Website
@@ -45,7 +45,7 @@ email: giorgoskolokotronis@gmail.com
 authors:
     gkolokotronis:
         name: George Kolokotronis
-        bio: Software Developer and Data Analyst
+        bio: Software Developer / Data Analyst
         external-image: false
         picture: assets/images/profile.jpg
 
@@ -56,8 +56,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
