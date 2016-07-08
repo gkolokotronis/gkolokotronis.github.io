@@ -10,7 +10,7 @@ description: Personal Website
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://gkolokotronis.github.io/personal_website
+url: https://gkolokotronis.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
